@@ -46,7 +46,7 @@ Jalankan perintah-perintah berikut secara urut di Terminal(windows) / Command Pr
 
 ```bash
 # 1. Clone / Pull repository dari GitHub
-git clone [https://github.com/zakiariaputra/Endpoint-nilai-Rata-Rata--StudyCase-.git](https://github.com/zakiariaputra/Endpoint-nilai-Rata-Rata--StudyCase-.git)
+git clone https://github.com/zakiariaputra/Endpoint-nilai-Rata-Rata--StudyCase-.git
 
 # 2. Masuk ke direktori projek yang sudah di-clone
 cd Endpoint-nilai-Rata-Rata--StudyCase-
